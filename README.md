@@ -66,6 +66,7 @@ https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_1
   * [Data Set 10](#data-set-10)
   * [Data Set 11](#data-set-11)
   * [Data Set 12](#data-set-12)
+* [Contributors & Acknowledgements](#contributors)
 * [Disclaimer](#disclaimer)
 
 ---
@@ -757,6 +758,20 @@ SHA1: 20f804ab55687c957fd249cd0d417d5fe7438281
 MD5: b1206186332bb1af021e86d68468f9fe
 
 SHA256: b5314b7efca98e25d8b35e4b7fac3ebb3ca2e6cfd0937aa2300ca8b71543bbe2
+
+---
+
+## <a id="contributors"></a>Contributors & Acknowledgements
+
+This project exists thanks to community contributions across issues, pull requests,
+mirrors, analysis, and verification efforts.
+
+Notable contributors include:
+* Community members who reported mirror issues, duplication, and missing files
+* Contributors who provided alternative mirrors, torrents, and structured datasets
+* Archivists and data hoarders assisting with verification and preservation
+
+For full attribution and discussion history, see the Issues and Pull Requests tabs.
 
 ---
 
