@@ -52,7 +52,7 @@ https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_1
   * [How to Compile a Mostly Complete Data Set 9](#ds9-reconstruction)
 * [Datasets](#datasets)
   * [Quick Jumps](#quick-jumps)
-  * [Structured Dataset Full](#structured-dataset-full)
+  * [Structured Dataset (Mostly Full)](#structured-dataset-full)
   * [Data Sets 1–8 (Internet Archive)](#data-sets-1-8-internet-archive)
   * [Data Set 1](#data-set-1)
   * [Data Set 2](#data-set-2)
