@@ -418,10 +418,10 @@ https://archive.org/details/combined-all-epstein-files/COMBINED_ALL_EPSTEIN_FILE
   https://www.justice.gov/epstein/files/DataSet%201.zip
   ```
 
-* **Torrent magnet:** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:4e2fd3707919bebc3177e85498d67cb7474bfd96&dn=DataSet+1&xl=2658494752&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
+* **Torrent magnet:** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:03d260e3e5d455379d40cd36ded08d5f47228ad7&dn=DataSet%201.zip&xl=1321480300&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce)**
 
   ```text
-  magnet:?xt=urn:btih:4e2fd3707919bebc3177e85498d67cb7474bfd96&dn=DataSet+1&xl=2658494752&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+  magnet:?xt=urn:btih:03d260e3e5d455379d40cd36ded08d5f47228ad7&dn=DataSet%201.zip&xl=1321480300&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce
   ```
 
 ---
