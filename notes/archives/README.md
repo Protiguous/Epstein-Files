@@ -22,7 +22,7 @@ If this corpus must be understood **years later**, this is the record.
 
 ---
 
-## ⚖️ Archival Philosophy
+## Archival Philosophy
 
 This repository distinguishes between two structural tiers:
 
@@ -234,6 +234,56 @@ magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuc
 ```
 
 Status: Historical reference
+
+---
+
+_(Originally from the main readme, these entries may be duplicates of those previously mentioned)_
+
+
+##### @t-wilis' reconstructed _(even more complete)_ DataSet 9 (178.4 GB / 180 GB)
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
+
+  ```text
+  magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+  ```
+
+    **SHA256:** 1472d41d66b069423ed804ceee3d47bc6d307be0daa05d0efe5a38df2d4469e5
+
+    **Notes:** 
+
+
+##### u/FuckThisSite3's _MORE Complete_ DataSet 9 (143 GB / 180 GB)
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuckthissite3.tar&xl=148072017920)**
+
+  ```text
+  magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuckthissite3.tar&xl=148072017920
+  ```
+
+    **SHA256:** 5ADC043BCF94304024D718E57267C1AA009D782835F6ADBE6AD7FDBB763F15C5
+
+    **Notes:** 
+    * *Contains ~2,308 NATIVES, ~252,169 PDFs*
+
+
+##### [ym's](https://github.com/yung-megafone) compiled flattened PDFs (VERY SLOW) (94.58 GB / 180 GB)
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
+
+  ```text
+  magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+  ```
+
+    **SHA256:** See [checksums-incomplete.zip](/notes/DS09/checksums-incomplete.zip)
+
+    **Notes:**
+    * *531,282 PDFs (flattened). **No NATIVEs.***
+    * *VOL00009.DAT, VOL00009.OPT*
+    * *Early seed; bandwidth limited — please be patient and report issues.*
 
 ---
 
